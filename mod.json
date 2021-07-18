@@ -1,0 +1,16 @@
+{
+	"name": "Master Crafter",
+	"description": "Mastercrafted items will not break.",
+	"version": "1.2.0",
+    "author": "Robot Boy",
+    "waywardVersion": "2.10.7-beta",
+	"unloadable": true,
+	"file": "out/masterCrafter.js",
+	"languages": [
+		"lang/english"
+	],
+	"tags": [
+		"Cheat"
+	],
+	"publishedFileId": "681154901"
+}
